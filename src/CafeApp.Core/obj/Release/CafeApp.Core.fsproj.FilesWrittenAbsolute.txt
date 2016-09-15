@@ -1,0 +1,5 @@
+/Users/willsam100/Projects/CafeApp/src/CafeApp.Core/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/willsam100/Projects/CafeApp/build/CafeApp.Core.dll.mdb
+/Users/willsam100/Projects/CafeApp/build/CafeApp.Core.dll
+/Users/willsam100/Projects/CafeApp/src/CafeApp.Core/obj/Release/CafeApp.Core.dll
+/Users/willsam100/Projects/CafeApp/src/CafeApp.Core/obj/Release/CafeApp.Core.dll.mdb
